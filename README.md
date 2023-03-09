@@ -63,6 +63,4 @@ Here are some ideas to get you started:
 </div>
 <br />
   
-  <h4>Contributions Overview</h4>
-  <a href="https://github.com/Camoralesh27/github-readme-activity-graph"><img alt="Camoralesh27's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Camoralesh27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
