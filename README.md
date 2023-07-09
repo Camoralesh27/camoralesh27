@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   
   ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=712cf9&style=for-the-badge&logo=Bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![React JS](https://img.shields.io/static/v1?label=&message=React%20js&color=61DAFB&style=for-the-badge&logo=React&logoColor=white)
   ![Node JS](https://img.shields.io/static/v1?label=&message=Node%20JS&color=339933&style=for-the-badge&logo=Node.js&logoColor=white)
