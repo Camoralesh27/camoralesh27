@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working: in a construction company. I'm a Mexican Mechanical Engineer and I'm learning web design and english language because I want to be a bilingual man.
 - 🌱 I’m currently learning: **web design** with HTML, CSS, JS in UDEMY with the teacher Juan Pablo de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
-- 👯 I’m looking to: collaborate on **web development projects** and become a Web designer front end.
+- 👯 I’m looking to: collaborate on **web development projects** and become a full stack Web Developer.
 - 💬 Ask me about: **web development**!
 - 📫 How to reach me: camoralesh27@gmail.com
 - ⚡ Fun fact: 
