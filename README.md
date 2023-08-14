@@ -41,14 +41,17 @@ Here are some ideas to get you started:
   
   ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CE679A&style=for-the-badge&logo=SASS&logoColor=white)
   ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=712cf9&style=for-the-badge&logo=Bootstrap&logoColor=white)
+  <br/>
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![React JS](https://img.shields.io/static/v1?label=&message=React%20js&color=61DAFB&style=for-the-badge&logo=React&logoColor=white)
   ![Node JS](https://img.shields.io/static/v1?label=&message=Node%20JS&color=339933&style=for-the-badge&logo=Node.js&logoColor=white)
+  <br/>
+  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   <!--![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=003B57&style=for-the-badge&logo=SQLite) -->
   <!--![MongoDB](https://img.shields.io/static/v1?label=&message=Mongo%20DB&color=47A248&style=for-the-badge&logo=MongoDB&logoColor=white) -->
   <!--![Stripe](https://img.shields.io/static/v1?label=&message=Stripe%20Payment%20API&color=008CDD&style=for-the-badge&logo=Stripe&logoColor=white) -->
-  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   <!--![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=for-the-badge&logo=Heroku&logoColor=white) -->
   </div>
 
