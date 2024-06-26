@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭 I’m currently working: In a construction company. I'm a Mexican Mechanical Engineer and I'm learning web design and english language.
-- 🌱 I’m currently learning: **Front-End** with HTML, CSS, JS in UDEMY with the teacher Juan Pablo de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+- 🌱 I’m currently learning: **Front-End** with HTML, CSS, JS, SASS, REACT, PHP, SQL in UDEMY with the teacher Juan Pablo de la Torre.
 - 👯 I’m looking to: Practice my skills and collaborate on **web development projects** and become a full stack Web Developer.
 - 📫 How to reach me: camoralesh27@gmail.com
   
