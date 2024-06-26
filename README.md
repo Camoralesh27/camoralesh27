@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-° 🔭 I’m currently working: In a construction company. I'm a Mexican Mechanical Engineer and I'm learning web design and english language.
-° 🌱 I’m currently learning: **Front-End** with HTML, CSS, JS in UDEMY with the teacher Juan Pablo de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
-° 👯 I’m looking to: Practice my skills and collaborate on **web development projects** and become a full stack Web Developer.
-° 📫 How to reach me: camoralesh27@gmail.com
-
-° ⚡ <a href="https://www.codewars.com/users/Camoralesh27/">FrontEndMentor profile.</a>
-° ⚡ <a href="https://www.codewars.com/users/Camoralesh27/">Codewars profile.</a>
+- 🔭 I’m currently working: In a construction company. I'm a Mexican Mechanical Engineer and I'm learning web design and english language.
+- 🌱 I’m currently learning: **Front-End** with HTML, CSS, JS in UDEMY with the teacher Juan Pablo de la Torre (https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
+- 👯 I’m looking to: Practice my skills and collaborate on **web development projects** and become a full stack Web Developer.
+- 📫 How to reach me: camoralesh27@gmail.com
+  
+- ⚡ <a href="[https://www.codewars.com/users/Camoralesh27/](https://www.frontendmentor.io/profile/Camoralesh27)">FrontEndMentor profile.</a>
+- ⚡ <a href="[https://www.codewars.com/users/Camoralesh27/](https://www.codewars.com/users/Camoralesh27/)">Codewars profile.</a>
 
 
 <h3>Skills</h3>
