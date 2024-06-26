@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   ![Node JS](https://img.shields.io/static/v1?label=&message=Node%20JS&color=339933&style=for-the-badge&logo=Node.js&logoColor=white)
   <br/>
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-  ![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=EF391A&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+  ![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=EF391A&style=for-the-badge&logo=GIT&logoColor=white)
   
   <!-- ![React JS](https://img.shields.io/static/v1?label=&message=React%20js&color=61DAFB&style=for-the-badge&logo=React&logoColor=white)-->
   <!--![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=003B57&style=for-the-badge&logo=SQLite) -->
