@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to: Practice my skills and collaborate on **web development projects** and become a full stack Web Developer.
 - 📫 How to reach me: camoralesh27@gmail.com
   
-- ⚡ <a href="[https://www.codewars.com/users/Camoralesh27/](https://www.frontendmentor.io/profile/Camoralesh27)">FrontEndMentor profile.</a>
-- ⚡ <a href="[https://www.codewars.com/users/Camoralesh27/](https://www.codewars.com/users/Camoralesh27/)">Codewars profile.</a>
+- ⚡FrontEndMentor profile: https://www.frontendmentor.io/profile/Camoralesh27
+- ⚡ Codewars profile: https://www.codewars.com/users/Camoralesh27/
 
 
 <h3>Skills</h3>
