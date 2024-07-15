@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: **Front-End** with HTML, CSS, JS, SASS, REACT, PHP, SQL in UDEMY with the teacher Juan Pablo de la Torre.
 - 👯 I’m looking to: Practice my skills and collaborate on **web development projects** and become a full stack Web Developer.
 - 📫 How to reach me: camoralesh27@gmail.com
-  
+- ⚡Linkedin: https://www.linkedin.com/in/cristhian-morales-b36a58226/
 - ⚡FrontEndMentor profile: https://www.frontendmentor.io/profile/Camoralesh27
-- ⚡ Codewars profile: https://www.codewars.com/users/Camoralesh27/
+- ⚡Codewars profile: https://www.codewars.com/users/Camoralesh27/
 
 
 <h3>Skills</h3>
