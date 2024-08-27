@@ -49,6 +49,9 @@ Here are some ideas to get you started:
   <br/>
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![Node JS](https://img.shields.io/static/v1?label=&message=Node%20JS&color=339933&style=for-the-badge&logo=Node.js&logoColor=white)
+  ![PHP](https://img.shields.io/static/v1?label=&message=PHPcolor=AEB2D5&style=for-the-badge&logo=PHPlogoColor=white)
+  ![MySQL](https://img.shields.io/static/v1?label=&message=MySQLcolor=00758F&style=for-the-badge&logo=MySQLlogoColor=white)
+  
   <br/>
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   ![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=EF391A&style=for-the-badge&logo=GIT&logoColor=white)
